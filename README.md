@@ -1,12 +1,10 @@
 # **ANDREA ROMERO HERNÁNDEZ**
 
-![mi_foto](https://media.licdn.com/dms/image/D4E03AQFVEOMp0jXUlA/profile-displayphoto-shrink_800_800/0/1669410809185?e=1681948800&v=beta&t=aEE6a3h1t5A35fsh5Mms8k3bEZ9pAJ2otmy5EvrXijU "Hover text")
-
 ## Engineer in Computer Systems
 
 ### **PERSONAL INFORMATION**
 
-*   22 años de edad
+*   22 years old.
 *   Morelia, Mich, 17 August 2000
 *   [LinkedIn](https://www.linkedin.com/in/andrea-romero-a3764b222/) | Andrea Romero Hernández.
 *   andrea.romero.hndz@gmail.com
